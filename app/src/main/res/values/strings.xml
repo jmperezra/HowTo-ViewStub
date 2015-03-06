@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="LABEL_BTN_PRE">Mostrar valores Textos</string>
+    <string name="LABEL_BTN_POST">Inflar ViewStub</string>
+    <string name="TEXT_DESCRIPTION_DEMO">Aplicación de ejemplo que muestra el uso de ViewStub.\n<ul><li>El botón <b>VER CONTENIDO ANTES</b> muestra el contenido sin inflar el ViewStub.</li>\n<li>El botón <b>VER CONTENIDO DESPUÉS</b> infla el ViewStub y muestra su resultado.</li></ul></string>
+    <string name="TEXT_LOREM_IPSUM">Este es el contenido de un textview que se encuentra en el layout que carga el ViewStub</string>
+    <string name="TEXT_DEMO_3">Texto demo 3</string>
+    <string name="TEXT_DEMO_2">Texto demo 2</string>
+    <string name="TEXT_DEMO_1">Texto demo 1</string>
+    <string name="NUM_OF_VIEWS">Número de Vistas: %1$d</string>
+    <string name="LABEL_BTN_CLEAR">Limpiar</string>
+</resources>
